@@ -1,0 +1,2 @@
+*{margin:0;padding:0}.anim{-webkit-animation:rotat 15s linear infinite;animation:rotat 15s linear infinite}@-webkit-keyframes rotat{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}@keyframes rotat{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}
+/*# sourceMappingURL=main.29e7e12e.css.map*/

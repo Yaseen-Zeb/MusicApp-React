@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MusicApp-React/static/css/main.29e7e12e.css",
+    "main.js": "/MusicApp-React/static/js/main.fdbdae29.js",
+    "static/media/Pyar_Ek_Zakhm_Tha.mp3": "/MusicApp-React/static/media/Pyar_Ek_Zakhm_Tha.0b97f91fa9627143e5ec.mp3",
+    "static/media/Mashup- 8D.mp3": "/MusicApp-React/static/media/Mashup- 8D.e48b28be8672bc414a66.mp3",
+    "static/media/Sta Banna.mp3": "/MusicApp-React/static/media/Sta Banna.e0f2d5b92609ce60e182.mp3",
+    "static/media/AGENCY - Rap.mp3": "/MusicApp-React/static/media/AGENCY - Rap.2cea858d12ecace48a22.mp3",
+    "static/media/janam janam.mp3": "/MusicApp-React/static/media/janam janam.a1efd4266dd2750aa2af.mp3",
+    "static/media/8d-Technology-Audio.webp": "/MusicApp-React/static/media/8d-Technology-Audio.cd240bf3168c08a295ae.webp",
+    "static/media/istockphoto-1129332575-612x612.jpg": "/MusicApp-React/static/media/istockphoto-1129332575-612x612.b180330b1fb3fef99890.jpg",
+    "static/media/images.jfif": "/MusicApp-React/static/media/images.128a2fa3d6cbffe966f8.jfif",
+    "static/media/images (1).jfif": "/MusicApp-React/static/media/images (1).4cb3272a473bf60fd57f.jfif",
+    "static/media/download.jfif": "/MusicApp-React/static/media/download.1f6a62c93e38498b0ea2.jfif",
+    "index.html": "/MusicApp-React/index.html",
+    "main.29e7e12e.css.map": "/MusicApp-React/static/css/main.29e7e12e.css.map",
+    "main.fdbdae29.js.map": "/MusicApp-React/static/js/main.fdbdae29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29e7e12e.css",
+    "static/js/main.fdbdae29.js"
+  ]
+}
